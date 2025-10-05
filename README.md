@@ -1,4 +1,4 @@
-# Gatinho Interativo 🐱💖
+# Clicker Cat 🐱💖
 
 Um jogo web divertido e fofo onde você pode clicar no gatinho, que reage se mexendo para os lados e fazendo “meow”!
 
@@ -13,7 +13,7 @@ Um jogo web divertido e fofo onde você pode clicar no gatinho, que reage se mex
 ## 📂 Estrutura do Projeto
 
 ```
-gatinho-interativo/
+clicker-cat/
 │
 ├─ index.html      # Estrutura da página
 ├─ style.css       # Estilos e animações
@@ -29,7 +29,7 @@ gatinho-interativo/
 1. Clone o projeto:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/gatinho-interativo.git
+git clone https://github.com/SEU-USUARIO/Clicker-Cats.git
 ```
 
 2. Abra o `index.html` no navegador.
@@ -49,3 +49,8 @@ No `style.css` você pode:
 * Alterar cores de fundo.
 * Ajustar o tamanho do gatinho.
 * Adicionar animações de transição.
+
+## 🐾 Jogue Agora
+
+Experimente o [Clicker Cats](https://hallow303.github.io/Clicker-Cats/) e divirta-se! 😸  
+---  
